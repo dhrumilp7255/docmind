@@ -61,7 +61,7 @@ Instead of generic AI responses, every answer is **grounded in your actual docum
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docmind.git
+git clone https://github.com/dhrumilp7255/docmind.git
 cd docmind
 ```
 
